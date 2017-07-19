@@ -13,6 +13,6 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 ## usage
 'jupyter notebook,
 
-##Reference
+## Reference
 1. [Dimensionality_Reduction](https://github.com/llSourcell/Dimensionality_Reduction) by Siraj Raval
 2. Kaggle Dataset: [Pima Indians Diabetes Database] (https://www.kaggle.com/uciml/pima-indians-diabetes-database)
