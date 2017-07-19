@@ -11,7 +11,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 * matplotlib
 
 ## usage
-'jupyter notebook'
+`jupyter notebook`
 
 ## Reference
 1. [Dimensionality_Reduction](https://github.com/llSourcell/Dimensionality_Reduction) by Siraj Raval
