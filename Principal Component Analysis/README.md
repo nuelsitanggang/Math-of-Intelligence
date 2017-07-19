@@ -1,6 +1,6 @@
 # Principal Component Analysis
 
-Principal Component Analysis (PCA) is a linear transformation technique that can be used for reduce dimensionality of a dataset. The goal of PCA is to find detect correlation between variables. The dimensionality reduction than can be done based on how strong the correlation between the variables.
+Principal Component Analysis (PCA) is a linear transformation technique that can be used for reduce dimensionality of a dataset. The goal is to explain the maximum amount of variance with the fewest number of principal components. PCA detect the correlation between variables, the dimensionality reduction than can be done based on how strong the correlation between them.
 
 ## Dataset Information
 
